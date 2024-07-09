@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "cU2syVpIJ8-TmgwPUCIvLjzdkLg",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J19qdQjlUgYU7kvH27QqwYPWj5U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j2b4-wK7a6M"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-11T15:05:00Z",
+        "channelId": "UCnLISyFLMUvasN9J8sagGug",
+        "title": "$1 to $100 Rubik’s Cube Comparison | Which is Better?",
+        "description": "shorts Support The Channel ▻ CubeRazn Merch: https://tinyurl.com/yhm8zrm5 3 Months Free VPN: https://tinyurl.com/4fs3w7p9 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j2b4-wK7a6M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j2b4-wK7a6M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j2b4-wK7a6M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CubeRazn",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-11T15:05:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eWBMrqWz5LDL22onxgslR8zUwz0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ekmw3xKnFwQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-05T15:01:49Z",
+        "channelId": "UCSWZxpzUTkriCZRe0Nl0UqA",
+        "title": "14 Coolest Gadgets That Are Worth Seeing",
+        "description": "Coolest gadgets you can actually buy ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ekmw3xKnFwQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ekmw3xKnFwQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ekmw3xKnFwQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouFact Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-05T15:01:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pU526cZlRdXmB2DyZq0XM9bsJrY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UDrNgwdN8Wo"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-02T00:07:35Z",
+        "channelId": "UC7rsYYvQbqQrJDGhqWmtAgQ",
+        "title": "Tiny Camera, HUGE Possibilities",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UDrNgwdN8Wo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UDrNgwdN8Wo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UDrNgwdN8Wo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kyle Krueger",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-02T00:07:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NMyMWDck8RqKFyJkK7BVnKffuaY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bpE7P7sDSko"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-30T13:01:14Z",
+        "channelId": "UC6H07z6zAwbHRl4Lbl0GSsw",
+        "title": "INCREDIBLE INVENTIONS YOU DIDN&#39;T KNOW ABOUT",
+        "description": "1) KneeSEAT (Preview) https://www.youtube.com/watch?v=UkOHvWhWRsY https://www.youtube.com/watch?v=4LZrAIn5nxc ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bpE7P7sDSko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bpE7P7sDSko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bpE7P7sDSko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TechZone",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-30T13:01:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5X-Aq4y4vo2QQcN_Eap5Ah3ZmVc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X7d-3CsDlN8"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-13T21:16:51Z",
+        "channelId": "UCuYUOEXwUKBtiE1pNoB40PA",
+        "title": "Best performance🤩",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X7d-3CsDlN8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X7d-3CsDlN8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X7d-3CsDlN8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Foot Mood",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-13T21:16:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VRBdN17ZCTgzmKQ9IzuCwYGYM4c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0f1fkLrpnh0"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-04T22:08:00Z",
+        "channelId": "UCjaxmdb_gTWbz9XF5rzvgGg",
+        "title": "SUBWAY SURFERS 2.0",
+        "description": "Art: https://instagram.com/gugie.art.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0f1fkLrpnh0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0f1fkLrpnh0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0f1fkLrpnh0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Natan por Aí",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-04T22:08:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jkLy3g-19cdqCz4UKMVTavZ86mo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y7WZTEz3UAs"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-06T15:01:37Z",
+        "channelId": "UCTxBdQ7W4OmNLJCJd-gh8-Q",
+        "title": "제임스 브라운",
+        "description": "아카데미 시상식에서 네 개 부문 후보에 오른 '헬프'의 후속작. 테이트 타일러 감독, 42의 채드윅 보스만 주연. 소울의 아버지 제임스 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y7WZTEz3UAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y7WZTEz3UAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y7WZTEz3UAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-05-06T15:01:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jjXzF1Jg2WemyYzkGofUvFWFc-k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Coi7rtSuO90"
+      },
+      "snippet": {
+        "publishedAt": "2012-08-29T11:49:16Z",
+        "channelId": "UCfqq0msXoC78evtF6X0AT4w",
+        "title": "투어리스트",
+        "description": "프랭크(조니 뎁)는 휴가 차 이태리, 베니스를 여행하는 평범한 미국인이다. 프랭크는 우연히 숨막히도록 아름답지만 비밀을 감추고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Coi7rtSuO90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Coi7rtSuO90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Coi7rtSuO90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-08-29T11:49:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WKyS1OLLa0fyyJQEb615J4jsuRE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4ArZZ-qgbiY"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-02T02:17:58Z",
+        "channelId": "UCcwtrNEHqIKU_1-w6Se1i_w",
+        "title": "온 세상이 자꾸 #변우석 변우석 하는 이유",
+        "description": "바자가 자꾸 변우석변우석 하는 이유, 이 영상 하나면 이해가 될 거에요. 촬영 현장 내내 웃음 가득, 프로페셔널한 모습 뒤 특유의 잔망 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4ArZZ-qgbiY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4ArZZ-qgbiY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4ArZZ-qgbiY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Harper's BAZAAR Korea",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-02T02:17:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vjc3e_dOVV_m5pk3Ld-XUdgU0Dk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bODwQY_N1ys"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-01T23:56:16Z",
+        "channelId": "UCyPYQTT20IgzVw92LDvtClw",
+        "title": "Her Push-Up Progress: AMAZING!😍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bODwQY_N1ys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bODwQY_N1ys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bODwQY_N1ys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Squat University",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-01T23:56:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f0qPkQfEP6FUTjLuVCB7wnqOJGM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4Q9F7lCHBbY"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-01T16:00:07Z",
+        "channelId": "UCtfh3NUmwHcih6DY-TcdSYg",
+        "title": "The Possible DARK TRUTH Behind Ditto...",
+        "description": "Consider this a bit of a teaser ;) #pokemon #shinypokemon #gaming #nintendo #pokemongo #shorts #shortvideo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4Q9F7lCHBbY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4Q9F7lCHBbY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Q9F7lCHBbY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Newsteevie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-01T16:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FEcOni6vE_xY0QWbxFPxaAdaICc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Pb_wgH92S0w"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-03T17:00:04Z",
+        "channelId": "UC4rlAVgAK0SGk-yTfe48Qpw",
+        "title": "What If Jeep-Sized Spiders Appeared on Earth",
+        "description": "The biggest spider people know about is the South American Goliath birdeater. This puppy-sized arachnid usually has a foot-long ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pb_wgH92S0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pb_wgH92S0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pb_wgH92S0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BRIGHT SIDE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-03T17:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wHlDXcg6FmLzjzAjegW9H_pgpSk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rNee1vP6VEQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-02T00:41:18Z",
+        "channelId": "UC89KaSa8RUQYxKereii5xew",
+        "title": "1 week down!2 to go🤩let me know if u have any questions for me! #hashimotos #antiinflammatory",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rNee1vP6VEQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rNee1vP6VEQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rNee1vP6VEQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alexandra Lourdes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-02T00:41:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dwr2Yj52Ns1ETRtu6lIR091n10U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BfKnVYvs5ro"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-01T06:29:56Z",
+        "channelId": "UCdrBnBNLsN4_cH32HWbr9qg",
+        "title": "LOVE LETTER - POPPY PLAYTIME CHAPTER 3 | GH&#39;S ANIMATION",
+        "description": "GH.S Twitter : https://twitter.com/GHSTUDI0 Voice Actor :@NDH_Blueclub   GH'STUDIO : GH'S, PP, ANIMATORNAM, JOO, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BfKnVYvs5ro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BfKnVYvs5ro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BfKnVYvs5ro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GH'S",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-01T06:29:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S0_oDAFf1cK2zgy7gN9Z8L3i8Ng",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9CNtFsumZsc"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-01T21:10:30Z",
+        "channelId": "UCljz_M6NK7ASp5u0t2ImfiQ",
+        "title": "THE WORLDS OLDEST PERSON!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9CNtFsumZsc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9CNtFsumZsc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9CNtFsumZsc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Icycol",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-01T21:10:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RyKN5kxFtrtY4ngbrFRk7Ps0HcU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JUgPCZNquDM"
+      },
+      "snippet": {
+        "publishedAt": "2016-01-06T15:00:15Z",
+        "channelId": "UC8L__RuNawnnO4ynFBg5nBA",
+        "title": "팬 (자막판)",
+        "description": "조 라이트가 연출한 영화 \"팬\"은 소설가 J.M. 배리 의 원작을 기반으로 하며, 영원하 사랑받는 캐릭터의 신나는 모험의 세계를 화려한 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JUgPCZNquDM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JUgPCZNquDM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JUgPCZNquDM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-01-06T15:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1LsisV9LWBSCkmKnjHjXEjBv1UQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PCMAfyGUJE0"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-01T19:00:20Z",
+        "channelId": "UCYJPby9DRCteedh5tfxVbrw",
+        "title": "Pro tip: make your hiding spot too scary to touch",
+        "description": "shorts #short #smosh Subscribe To Our Channels: Smosh: https://smo.sh/Sub2Smosh Smosh Pit:https://smo.sh/Sub2SmoshPit ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PCMAfyGUJE0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PCMAfyGUJE0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PCMAfyGUJE0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Smosh Pit",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-01T19:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LkZv5ew6-dAgPQS29uUG72R6owE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ueUVJk3eDe8"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-01T18:03:15Z",
+        "channelId": "UCt7HwLLBDRcNnPgZD0KkTQw",
+        "title": "Cosas que enseñan los videojuegos 😎 #humor",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ueUVJk3eDe8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ueUVJk3eDe8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ueUVJk3eDe8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-01T18:03:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iiIcvaREYKncrU4eFdEtUkxdNfM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yPM1pY0qO2k"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-30T20:00:27Z",
+        "channelId": "UCXs61Ndm1-67HwDZR70g8pQ",
+        "title": "SILVER&#39;S DAD IS RUNNING OUT OF TIME ON ROBLOX! (SAD END) 🎲 #shorts",
+        "description": "Hey there, it's your friend Silver! ⚔️ If you're a fan of Roblox and specially a fan of Blox Fruits, following my channel is a must for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yPM1pY0qO2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yPM1pY0qO2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yPM1pY0qO2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Silver",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-30T20:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sdJWU89OZnJK4k-dKRzpjOt_4yw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZnFE2Gc6QXk"
+      },
+      "snippet": {
+        "publishedAt": "2012-08-26T10:29:24Z",
+        "channelId": "UChW1Hj1crNHHdroAyMypdqA",
+        "title": "프리스트",
+        "description": "대재앙 이후의 세계, 인간과 흡혈귀 간의 전쟁이 몇 세기나 이어졌다. 전사가 된 사제(폴 베타니)의 조카가 무자비한 뱀파이어들의 소굴 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZnFE2Gc6QXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZnFE2Gc6QXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZnFE2Gc6QXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-08-26T10:29:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NGtl8KuM_0OW_vls3c8CIxWJq-k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NJUjU9ALj4A"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-08T15:03:01Z",
+        "channelId": "UCF8AeLlUbEpKju6v1H6p8Eg",
+        "title": "[한국경제TV LIVE] No.1 경제/증권 채널",
+        "description": "대한민국의 경제를 보세요! △빠르고 정확한 경제·증권 뉴스와 파트너스들의 분석진단을 24시간 전해드립니다. △구독좋아요 그리고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NJUjU9ALj4A/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NJUjU9ALj4A/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NJUjU9ALj4A/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "한국경제TV",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-02-08T15:03:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BU3AzZ8ZrFKNURCIfxU5LMv98l4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cbczoGB7pcI"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-30T10:49:18Z",
+        "channelId": "UCYXEb5vAFCq68F3qdKJAUXQ",
+        "title": "이터널 선샤인",
+        "description": "사랑은 그렇게 다시 기억된다.. 조엘은 아픈 기억만을 지워준다는 라쿠나사를 찾아가 헤어진 연인 클레멘타인의 기억을 지우기로 결심 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cbczoGB7pcI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cbczoGB7pcI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cbczoGB7pcI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-30T10:49:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P3ateuqBAMTroRzZFoJNk5W8_c8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0xsAgdZTqjo"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-01T14:59:00Z",
+        "channelId": "UCtctOXlHYeQyuXSgW861nMA",
+        "title": "이거 가능한 사람⁉️😱 Who can do this?",
+        "description": "URE - Life is a challenge 수업 안내 Class Information https://1llusion.modoo.at/ 온라인 클래스 Online Class ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0xsAgdZTqjo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0xsAgdZTqjo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0xsAgdZTqjo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "팀일루션 노성율 - TEAM1LLUSION",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-01T14:59:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qK8P6SiRzshRFR2zwZWPjLgycxg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PS1PaHRfcDo"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-02T04:00:12Z",
+        "channelId": "UCtshUri-gwWYYbMnm6ZvS2A",
+        "title": "Discord Memes",
+        "description": "memes memes, memes i found on discord, memes for imdontai, memes clean, memes video, memes from my discord, memes for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PS1PaHRfcDo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PS1PaHRfcDo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PS1PaHRfcDo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Meme Asylum 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-02T04:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KVS7ssm8thbRJlsGhpa3nwqU-ic",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YXMdeZWWPzM"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-02T02:11:39Z",
+        "channelId": "UCDhM2k2Cua-JdobAh5moMFg",
+        "title": "눈이 부시게 아름다운 오늘✨Glow like #BigOcean 🌊 #ITZY #YEJI #예지 #RYUJIN #류진 #빛 #Glow #빛챌린지 #GlowChallenge #빅오션",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YXMdeZWWPzM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YXMdeZWWPzM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YXMdeZWWPzM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ITZY",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-02T02:11:39Z"
+      }
+    }
+  ]
+}

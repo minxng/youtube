@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "t4NyAxEXQQziWjmHL7pUuG-o8UE",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-K4fdqdiXwSLaKJFLdMb6_6s-jc",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCyn-K7rZLXjGl7VXGweIlcA"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-05T02:51:11Z",
+        "channelId": "UCyn-K7rZLXjGl7VXGweIlcA",
+        "title": "백종원 PAIK JONG WON",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/J3OI66Bc7T3nheyKJKAkXR6tb-_bpCsoRMTFoslOBCXI3DpVY8eFY4LZWzww3BEgkRjMOEoI=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/J3OI66Bc7T3nheyKJKAkXR6tb-_bpCsoRMTFoslOBCXI3DpVY8eFY4LZWzww3BEgkRjMOEoI=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/J3OI66Bc7T3nheyKJKAkXR6tb-_bpCsoRMTFoslOBCXI3DpVY8eFY4LZWzww3BEgkRjMOEoI=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "백종원 PAIK JONG WON",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-05T02:51:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_hmoBqyzM7Bpi3hEyzNaW6EVFsY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p3lQ2A9H_d0"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-24T08:00:25Z",
+        "channelId": "UCyn-K7rZLXjGl7VXGweIlcA",
+        "title": "손님에게 친한 척하지 말라는 백종원",
+        "description": "백종원 #친한척금지 #장사이야기.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p3lQ2A9H_d0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p3lQ2A9H_d0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p3lQ2A9H_d0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백종원 PAIK JONG WON",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-24T08:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WTsVSTtU6p-a6kAF4-UTZHHFrAI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4pYVR9gYxIM"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-01T08:00:02Z",
+        "channelId": "UCyn-K7rZLXjGl7VXGweIlcA",
+        "title": "백종원 최애 술안주 레시피 들기름 계란후라이",
+        "description": "백종원 #들기름계란후라이 #술안주.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4pYVR9gYxIM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4pYVR9gYxIM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4pYVR9gYxIM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백종원 PAIK JONG WON",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-01T08:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JeKDdTsryDXZpo7O-zSlueLKzYA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IB7zflbICFM"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-07T08:21:36Z",
+        "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+        "title": "[🔴LIVE] 백종원의 미식 방랑기! 《스트리트 푸드 파이터》 스트리밍",
+        "description": "스트리밍 일정 : 2023 / 03 / 13 오후 5시 ~ 종료 시 까지 방송 사정 상 끊김이 발생할 수 있으며 예고 없이 종료될 수 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IB7zflbICFM/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IB7zflbICFM/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IB7zflbICFM/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN D ENT",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-03-07T08:21:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "euqWGiPWzVHQxjFanyQEj6qir_w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qaPsk77sGso"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-08T08:42:55Z",
+        "channelId": "UCyn-K7rZLXjGl7VXGweIlcA",
+        "title": "축제 바가지요금에 지친 사람 주목",
+        "description": "백종원 #축지법 #인제 이번 여름~ 일찍부터 시작된 폭염으로 힘드셨죠 강원도 인제에서 무더위를 한방에 날려줄 시원~한! 축제가 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qaPsk77sGso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qaPsk77sGso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qaPsk77sGso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백종원 PAIK JONG WON",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-08T08:42:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M_IpBousS6lFPeCV9w6by1Zl7Qs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sqNm0nChUpk"
+      },
+      "snippet": {
+        "publishedAt": "2013-01-29T01:56:11Z",
+        "channelId": "UCmjNKt6kITwaZTqvWuaSPLg",
+        "title": "힐링캠프 백종원,소유진 #14",
+        "description": "공식홈페이지 : http://tv.sbs.co.kr/healing 최신 영상 더보기 : http://netv.sbs.co.kr 힐링캠프 백종원,소유진 #14.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sqNm0nChUpk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sqNm0nChUpk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sqNm0nChUpk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-01-29T01:56:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ViWZsNhX_5JyqYB-5aGlTIOzAsU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oIA_mKNnUjE"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-15T08:00:25Z",
+        "channelId": "UCyn-K7rZLXjGl7VXGweIlcA",
+        "title": "찐텐 나온 백종원",
+        "description": "백종원 #라면왕 #장사천재.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oIA_mKNnUjE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oIA_mKNnUjE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oIA_mKNnUjE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백종원 PAIK JONG WON",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-15T08:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "18kCZcjzZOH347KWMtxdFQ3m3Yg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AFD3uRzPVXA"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-04T10:00:05Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#스트리트푸드파이터] (2시간) 침샘 어택🤤 백종원 피셜 다이어트 파괴범 길거리 음식🍖 한눈팔면 먹을게 보이는, 한눈을 팔아야 하는 곳🤩 #먹방 | #나중에또볼동영상",
+        "description": "길게 보는 tvN 핵꿀잼 영상! 저장해두고 나중에 보고 또 보자! #나중에또볼동영상 #나또동 #스트리트푸드파이터 #스트리트푸드 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AFD3uRzPVXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AFD3uRzPVXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AFD3uRzPVXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-04T10:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Oalh1p7nu8ZAnL6IlvwhHYN2iKs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mxj48nI01z4"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-10T08:37:36Z",
+        "channelId": "UCyn-K7rZLXjGl7VXGweIlcA",
+        "title": "[내꺼내먹_홍콩반점 2편] 지금도 계속 변화 중입니다.",
+        "description": "백종원 #내꺼내먹 #홍콩반점 홍콩반점을 점검하면서 정말 고민을 많이 했습니다. 홍콩반점을 찾아주시는 손님들에게 어떻게 해야 더 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mxj48nI01z4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mxj48nI01z4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mxj48nI01z4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백종원 PAIK JONG WON",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-10T08:37:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QJHwAD_J0lG7JEFDChvVReUaVho",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sx0Z-NU74a4"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-09T09:30:18Z",
+        "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+        "title": "[#스트리트푸드파이터] (3시간) 뉴욕 찍고 멕시코 찍고 시칠리아까지✈️ 맛있는 음식이 있다면 어디든 떠나는 백종원과 함께 걸어서 맛집 속으로🍖🌮  | #골라보는",
+        "description": "골라보는 #스트리트푸드파이터 #스트리트푸드파이터2 #tvN 쏘옥쏙 재밌는 장면만 골라보는 드라마&예능! 0:00:00 오프닝 0:00:06 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sx0Z-NU74a4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sx0Z-NU74a4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sx0Z-NU74a4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN D ENT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-09T09:30:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ATUuQyAYw26XRUc5lTt-H46i18s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B-Ej_Hgf8_M"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-29T08:00:06Z",
+        "channelId": "UCyn-K7rZLXjGl7VXGweIlcA",
+        "title": "[내꺼내먹_EP.14] 초심 잃은 새마을식당?! 제꺼 긴급 점검 들어갑니다😭",
+        "description": "백종원 #내꺼내먹 #새마을식당 브랜드를 오래 운영하다 보면 많은 시행착오와 위기를 겪을 때도 있는데요. 오랫동안 사랑받아 온 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B-Ej_Hgf8_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B-Ej_Hgf8_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B-Ej_Hgf8_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백종원 PAIK JONG WON",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-29T08:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b6LNhpwM-BZIOsXKNC2ak2YWGi8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XQY5ZUxGuqY"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-01T06:00:08Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "(1시간) 백종원이 추천하는 베트남 현지 음식🤤 이 영상 하나로 베트남 준비 끝! | #스트리트푸드파이터2 #디제이픽",
+        "description": "취향저격! 당신이 원하던 그 플레이리스트 [#디제이픽  ] #스트리트푸드파이터2 #Diggle #디글 we're :DIGGLE family.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XQY5ZUxGuqY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XQY5ZUxGuqY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XQY5ZUxGuqY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-01T06:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-ikRnJEphA-cRUkXnrjnXsiOexI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UJLEHOV04DM"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-05T08:00:13Z",
+        "channelId": "UCyn-K7rZLXjGl7VXGweIlcA",
+        "title": "집에서 먹는 짜장라면",
+        "description": "백종원 #쿠킹로그 #짜장라면.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UJLEHOV04DM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UJLEHOV04DM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UJLEHOV04DM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백종원 PAIK JONG WON",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-05T08:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JNdEkHnm0sg4MpLBkth63-qqWFM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X22E21ELtgk"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-10T03:10:00Z",
+        "channelId": "UCRMA_Nb5VF-YoWApSVeXPVA",
+        "title": "[#스트리트푸드파이터] 백종원이랑 태국 길거리 음식 50분 동안 먹을 사람?",
+        "description": "tvN 레전드 예능 끌어~ 올려↗↗ #끌올 방송국놈들의 하드털이 채널 '디글 클래식' we're :DIGGLE family.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X22E21ELtgk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X22E21ELtgk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X22E21ELtgk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 클래식 :Diggle Classic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-10T03:10:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bMjjw3CzjQSMmP4LZOAFsXAWuH4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xdz1U-R_0qA"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-01T08:12:56Z",
+        "channelId": "UCyn-K7rZLXjGl7VXGweIlcA",
+        "title": "직원들에게 공약을 걸어봤습니다. 축제 매출 1등, 누가 갈래?",
+        "description": "백종원 #축지법 #메모리얼페스타 무겁고 어렵기만 했던 보훈은 이제 그만~ 모든 세대가 즐겁게 기억할 수 있는! 새로운 보훈 축제가 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xdz1U-R_0qA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xdz1U-R_0qA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xdz1U-R_0qA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백종원 PAIK JONG WON",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-01T08:12:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FjYCLuGAGKwuGHdHgz1uaipr1G4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rW4D3lBPf_w"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-30T03:00:17Z",
+        "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+        "title": "[#스트리트푸드파이터2] 지금 당장 비행기에 오르고 싶어지는 백종원의 대만, 베트남 로컬 맛집 먹방🍜 형님 오늘 점심은 쌀국수로 할까요❓  | #골라보는",
+        "description": "골라보는 #스트리트푸드파이터2 #tvN 쏘옥쏙 재밌는 장면만 골라보는 드라마&예능! 00:00 오프닝 00:07 대만 타이베이 38:31 베트남 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rW4D3lBPf_w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rW4D3lBPf_w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rW4D3lBPf_w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN D ENT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-30T03:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_r--yfcWbCepWaS4H9eih4Q3cSU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mSACOKgkc3U"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-03T08:00:33Z",
+        "channelId": "UCyn-K7rZLXjGl7VXGweIlcA",
+        "title": "[내꺼내먹_홍콩반점] 오래 기다리셨습니다, 여러분의 말씀이 맞았어요...",
+        "description": "백종원 #홍콩반점 #내꺼내먹 오래 기다리셨습니다. 홍콩반점을 사랑해 주시고 많은 관심을 가져주시는 팀원 여러분께 깊은 감사의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mSACOKgkc3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mSACOKgkc3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mSACOKgkc3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백종원 PAIK JONG WON",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-03T08:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ykzGrKZSTVKU9MUoM6tD-UfTdE8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t8UWNN_hYXg"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-04T02:00:21Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#스트리트푸드파이터2] (3시간) 백종원 먹방의 축복이 끝이 없네🙏 대만 가면 꼭 들려야 하는 맛집부터 마라향 가득한 청두까지 무제한 제공🍚 #먹방 | #편집자는",
+        "description": "편집자는 덕질 중! 본격 편집자 덕업일치 자랑하는 영상 모음집   #스트리트푸드파이터2 #스트리트푸드파이터 00:00 오프닝 00:05 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t8UWNN_hYXg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t8UWNN_hYXg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t8UWNN_hYXg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-04T02:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pVmHbzMr2SSnCSSpjbAqwyp4w_8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R89T6teZ8C4"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-15T07:47:44Z",
+        "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+        "title": "백종원 &quot;진짜 너무 하신 거 아닙니까?&quot; 국회의원 질문에 반박한 국정감사장의 백 선생 / SBS",
+        "description": "국회 국정감사에 나온 백종원 대표가 의원 질의에 대해 내놓은 반응이 화제가 되고 있습니다. 백 대표는 지난 12일 정유섭 자유한국당 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R89T6teZ8C4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R89T6teZ8C4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R89T6teZ8C4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS 뉴스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-15T07:47:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XduY-JEPnJKxGEeFnjEOtygJ4h4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3hCI48S7xqo"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-10T06:16:56Z",
+        "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
+        "title": "손님과 직원의 언쟁 해결하는 백종원의 노하우 #장사천재백사장2 EP.10",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 세계 밥장사 도전기 장사천재 백사장2 [일] 저녁 7:40 #티빙에서 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3hCI48S7xqo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3hCI48S7xqo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3hCI48S7xqo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-10T06:16:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h0FM50K3e1XH_8PjY8F-msu2os4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yNMZfkMSqo8"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-04T08:00:36Z",
+        "channelId": "UCyn-K7rZLXjGl7VXGweIlcA",
+        "title": "짬뽕 레시피 이게 맞아? | 피피엘식당_EP.08",
+        "description": "파브리한테 매운맛 보여주려다 하루 장사 접을 뻔 했네 이거 먹고 실수로 재채기하면 허…상상만으로 끔찍하다…",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yNMZfkMSqo8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yNMZfkMSqo8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yNMZfkMSqo8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백종원 PAIK JONG WON",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-04T08:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nSwtlfGLajbthg1KBIYOPi0ViRg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wk9m7-5aYrQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-30T12:20:12Z",
+        "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
+        "title": "소방대원들의 식단표를 보더니 말이 없어진 백종원? &quot;나 약간 찡한 게..&quot; #highlight #백패커2 EP.6",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f #백패커2 #백종원 #이수근 #허경환 #안보현 #고경표 백패커2 EP.6 더 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wk9m7-5aYrQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wk9m7-5aYrQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wk9m7-5aYrQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-30T12:20:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zxfrb-RQAZeGgtqOSO9787FwlwY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yfP87sVfWQU"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-19T08:00:26Z",
+        "channelId": "UCyn-K7rZLXjGl7VXGweIlcA",
+        "title": "[내꺼내먹_EP.7] 골목식당 그 후, 제주 금악마을 | 폐업 위기의 타코집",
+        "description": "백종원 #내꺼내먹 #제주 멀리 제주도까지 터전을 옮겨 저와의 약속을 지켜온 가게들이 있습니다.. 3년 전 골목식당으로 인연을 맺었던 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yfP87sVfWQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yfP87sVfWQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yfP87sVfWQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백종원 PAIK JONG WON",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-19T08:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IvP7NwGo7inQut_CugXNMmMTzCM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RmfwSqyOgmw"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-02T10:31:00Z",
+        "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+        "title": "[#티전드] 굿모닝~ 배 채워야지?^^ 아침부터 거하게 먹는 백종원🍖 세계 각국 길거리 음식 뿌신다 | #스트리트푸드파이터 #스트리트푸드파이터2",
+        "description": "티전드 #스트리트푸드파이터 #스트리트푸드파이터2 #tvN 회차 정보: 스트리트푸드파이터 1, 2, 3, 5,8 회 스트리트푸드파이터2 1, 2, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RmfwSqyOgmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RmfwSqyOgmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RmfwSqyOgmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN D ENT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-02T10:31:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DSi0H1_96JZvsEbTkYezZ1Twkdw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SEWs5ShTZf4"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-25T10:00:21Z",
+        "channelId": "UCyn-K7rZLXjGl7VXGweIlcA",
+        "title": "[내꺼내먹_EP.12] 덮밥이 있었는데 없어졌습니다. 등촌동 골목식당 | 덮밥집 미전옥X예산 대술어묵",
+        "description": "백종원 #내꺼내먹 #대술어묵 올해 초, 등촌동 덮밥집 사장님으로부터 가게에 문제가 생겼다는 연락을 받았어요! 저한테 참 많이 혼나 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SEWs5ShTZf4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SEWs5ShTZf4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SEWs5ShTZf4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백종원 PAIK JONG WON",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-25T10:00:21Z"
+      }
+    }
+  ]
+}
