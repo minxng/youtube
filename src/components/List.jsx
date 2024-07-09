@@ -5,7 +5,7 @@ export default function List({ searchParam }) {
   const [video, setVideo] = useState([]);
   useEffect(() => {
     fetch(
-      `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${searchParam}&key=AIzaSyCvfST-5IoBGYWd1ELGJMR8Cnp1gCL7Qb4`
+      `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${searchParam}&key=${process.env.REACT_APP_YOUTUBE_API_KEY}`
     )
       .then((resp) => resp.json())
       .then((data) => setVideo(data.items));
