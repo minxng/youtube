@@ -1,25 +1,36 @@
-import logo from './logo.svg';
-import './App.css';
+import { useState } from "react";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import "./App.css";
+import List from "./components/List";
+import VideoItem from "./components/VideoItem";
+import Header from "./components/Header";
 
 function App() {
+  const [searchParam, setsearchParam] = useState("");
+  const router = createBrowserRouter([
+    {
+      path: "/",
+      element: <List searchParam={searchParam} />,
+    },
+    {
+      path: ":videoId",
+      element: <VideoItem />,
+    },
+  ]);
+  const search = (param) => {
+    setsearchParam(param);
+  };
+  console.log("app");
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Header search={search} />
+      <RouterProvider router={router} />
+    </>
   );
 }
 
+// const [keyword, setKeyword] = useState("");
+// const searchKeyword = (keyword) => {
+//   setKeyword(keyword);
+// };
 export default App;
