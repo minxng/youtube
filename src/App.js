@@ -7,23 +7,33 @@ import Header from "./components/Header";
 
 function App() {
   const [searchParam, setsearchParam] = useState("");
-  const router = createBrowserRouter([
-    {
-      path: "/",
-      element: <List searchParam={searchParam} />,
-    },
-    {
-      path: ":videoId",
-      element: <VideoItem />,
-    },
-  ]);
   const search = (param) => {
     setsearchParam(param);
   };
+  const router = createBrowserRouter([
+    {
+      path: "/",
+      element: (
+        <>
+          <Header search={search} />
+          <List searchParam={searchParam} />,
+        </>
+      ),
+    },
+    {
+      path: ":videoId",
+      element: (
+        <>
+          <Header search={search} />
+          <VideoItem />
+        </>
+      ),
+    },
+  ]);
+
   console.log("app");
   return (
     <>
-      <Header search={search} />
       <RouterProvider router={router} />
     </>
   );
